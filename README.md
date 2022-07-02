@@ -35,7 +35,7 @@ bash AndroHack.sh
 git clone https://github.com/Kamanati/AndroHack && cd AndroHack && bash AndroHack.sh
 ```
 ## video
-<p align="center"> <a href="https://youtu.be/RFLWTVXaLoQ"><img title="Made in INDIA" width="58%" src="/img/20220630_194920_0000.png"></a>
+<p align="center"> <a href="https://youtu.be/sROPRHw-1RM"><img title="Made in INDIA" width="58%" src="/.img/20220702_095136_0000.png"></a>
 
 ### Find Me on :
 
